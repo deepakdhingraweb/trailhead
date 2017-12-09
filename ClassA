@@ -1,0 +1,5 @@
+Public Class A{
+ private void methodA(){
+ 
+ }
+}
