@@ -1,0 +1,8 @@
+Public Class A{
+ private void methodA(){
+ 
+ }
+ private void methodB(){
+ 
+ }
+}
